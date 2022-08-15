@@ -14,10 +14,10 @@ Solidity Contract implementation of a Joint Savings Account
 
 
 
-![JointSavings Screenshot 3](joint_savings_withdraw_1.png)
+![JointSavings Screenshot 4](joint_savings_withdraw_1.png)
 
 
 
-![JointSavings Screenshot 3](joint_savings_deposit_withdraw_2.png)
+![JointSavings Screenshot 5](joint_savings_deposit_withdraw_2.png)
 
 
